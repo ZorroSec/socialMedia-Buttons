@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background: #cc9;
+}
+.conteiner img{
+    mix-blend-mode: multiply;
+    width: 30px;
+    height: 30px;
+    
+}
+.conteiner a{
+    
+    margin-right: 10px;
+    border-radius: 10px;
+    padding: 10px 25px;
+    border: 1px solid #eb5459;
+    box-shadow: 0 0 2.2em rgba(0,0,0,.3);
+}
